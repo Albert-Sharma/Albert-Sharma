@@ -5,6 +5,8 @@
 ## Sophomore at NIT-Hamirpur
 I'm Albert Sharma from Ghumarwin, Himachal Pradesh. I am a 2nd-year student at NIT-Hamirpur doing undergrads in Mathematics and Scientific Computing. My basic interest includes content writing, Indian Defence, and data analysis. Learning something new is my feed and I believe in "If it's not good then it's not the end".
 
+![Profile views](https://gpvc.arturio.dev/Albert-Sharma)  
+
 ## Skills:
 🎯Spreadsheets/MS-Excel/MS-Word 
 🎯C++/Python/ pandas/ numpy
@@ -30,7 +32,6 @@ I'm Albert Sharma from Ghumarwin, Himachal Pradesh. I am a 2nd-year student at N
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Albert-Sharma)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Profile views](https://gpvc.arturio.dev/Albert-Sharma)  
 
 
 
