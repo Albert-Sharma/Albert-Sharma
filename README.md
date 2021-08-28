@@ -3,8 +3,9 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  <img src="https://profile-counter.glitch.me/Albert-Sharma/count.svg" />
 </p>
+
 ### Hi there 👋
 ## Myself Albert Sharma
 ## Sophomore at NIT-Hamirpur
