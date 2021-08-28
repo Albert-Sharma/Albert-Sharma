@@ -1,10 +1,4 @@
 ![Sophomore at NIT-Hamirpur](https://media-exp1.licdn.com/dms/image/C4E16AQEPMSy1vPB9Cg/profile-displaybackgroundimage-shrink_350_1400/0/1603089655879?e=1635379200&v=beta&t=5FyaiLcYtgCugS8dYE5_B32Wo8ARP3ftOQGnvfXuv4U)
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Albert-Sharma/count.svg" />
-</p>
 
 ### Hi there 👋
 ## Myself Albert Sharma
