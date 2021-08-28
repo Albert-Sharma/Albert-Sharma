@@ -20,7 +20,7 @@ I'm Albert Sharma from Ghumarwin, Himachal Pradesh. I am a 2nd-year student at N
 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Albert-Sharma&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Albert-Sharma&show_icons=true&theme=radical)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Albert-Sharma)](https://github.com/anuraghazra/github-readme-stats)
 
