@@ -1,4 +1,4 @@
-<img align="right" height="220px" src="https://photos.google.com/photo/AF1QipMxdbhFwFlEVvqUS2kr_Br_lns5lc2ZhVKkkhuP" alt="image" />
+<img align="right" height="220px" src="save-myvfx(shading done).jpg" alt="image" />
 
 <p align="left">
 
