@@ -7,6 +7,11 @@ I'm Albert Sharma from Ghumarwin, Himachal Pradesh. I am a 2nd-year student at N
 
 ![Profile views](https://gpvc.arturio.dev/Albert-Sharma)  
 
+#### Work Realted Contacts
+
+- **personal ID**: albertsharma2016@gmail.com
+- **college ID**: 20bma024@nith.ac.in
+
 ## Skills:
 🎯Spreadsheets/MS-Excel/MS-Word 
 🎯C++/Python/ pandas/ numpy
