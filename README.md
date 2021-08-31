@@ -26,8 +26,17 @@ Learning something new is my feed and I believe in "If it's not good then it's n
 - 📫 How to reach me: Though my email or my contact 
 - ⚡ Fun fact: I work according to the situation 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Albert-Sharma)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/albert-sharma-2016/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_xxmacxxiv_berty_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@_albert_sharma)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' color='white' alt='website' height='40'>](www.insightmotivated.blogspot.com) 
+<a href="https://www.linkedin.com/in/albert-sharma-2016/">
+  <img alt="Albert on LinkedIN" width="22px" style="margin: 10px;" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/_xxmacxxiv_berty_/" target='_blank'>
+  <img alt="Albert on insta" width="22px" style="margin: 10px;" src="icons/instagram.svg" />
+</a>
+<a href="mailto:albertsharma2016@gmail.com">
+  <img alt="mail to Albert" width="22px" style="margin: 10px;" src="icons/gmail.svg" />
+</a>
+<hr> 
+<br>
 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
