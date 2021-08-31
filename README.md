@@ -10,7 +10,7 @@ My basic interest includes content writing, Indian Defence, and data analysis.<b
 Learning something new is my feed and I believe in "If it's not good then it's not the end".
 
 ![Profile views](https://gpvc.arturio.dev/Albert-Sharma)  
-
+  
 ### Work Realted Contacts
 
 - **Personal ID**: albertsharma2016@gmail.com
