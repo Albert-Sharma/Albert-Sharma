@@ -1,4 +1,4 @@
-<img align="right" height="220px" src="save-myvfx(shading done).jpg" alt="image" />
+<img align="right" height="220px" src="gfx-albert.jpg" alt="image" />
 
 <p align="left">
 
