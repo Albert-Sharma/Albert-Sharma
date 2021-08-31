@@ -5,7 +5,7 @@
 ### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi:)">
 ## Myself Albert Sharma
 ## Sophomore at NIT-Hamirpur
-I'm Albert Sharma from Ghumarwin, Himachal Pradesh. I am a 2nd-year student at NIT-Hamirpur doing undergrads in Mathematics and Scientific Computing.<br>
+I'm from Himachal Pradesh & currently is a 2nd-year student at NIT-Hamirpur doing undergrads in Mathematics and Scientific Computing.<br>
 My basic interest includes content writing, Indian Defence, and data analysis.<br> 
 Learning something new is my feed and I believe in "If it's not good then it's not the end".
 
