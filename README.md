@@ -30,10 +30,10 @@ Learning something new is my feed and I believe in "If it's not good then it's n
   <img alt="Albert on LinkedIN" width="22px" style="margin: 10px;" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/_xxmacxxiv_berty_/" target='_blank'>
-  <img alt="Albert on insta" width="22px" style="margin: 10px;" src="icons/instagram.svg" />
+  <img alt="Albert on insta" width="22px" style="margin: 10px;" src="instagram.svg" />
 </a>
 <a href="mailto:albertsharma2016@gmail.com">
-  <img alt="mail to Albert" width="22px" style="margin: 10px;" src="icons/gmail.svg" />
+  <img alt="mail to Albert" width="22px" style="margin: 10px;" src="gmail.svg" />
 </a>
 <hr> 
 <br>
