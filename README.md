@@ -21,7 +21,7 @@ Learning something new is my feed and I believe in "If it's not good then it's n
 🎯C++/Python/ pandas/ numpy
 🎯HTML/CSS/
 
-- 🌱 I’m currently learning Data Analysis & Python 
+- 🌱 I’m currently learning Data Analysis & Python(flask) 
 - 🤔 I’m looking for help with SQL, React 
 - 📫 How to reach me: Though my email or my contact 
 - ⚡ Fun fact: I work according to the situation 
