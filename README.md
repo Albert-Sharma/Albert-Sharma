@@ -38,8 +38,6 @@ Learning something new is my feed and I believe in "If it's not good then it's n
 <hr> 
 <br>
 
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Albert-Sharma&show_icons=true&bg_color=000000&color=00FF00)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Albert-Sharma&theme=midnight-purple&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
