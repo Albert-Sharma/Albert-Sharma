@@ -42,7 +42,7 @@ Learning something new is my feed and I believe in "If it's not good then it's n
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Albert-Sharma&show_icons=true&theme=radical)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Albert-Sharma&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Albert-Sharma&theme=midnight-purple&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Albert-Sharma)  
 
