@@ -48,7 +48,8 @@ Learning something new is my feed and I believe in "If it's not good then it's n
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Albert-Sharma)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Albert-Sharma)](https://github.com/ryo-ma/github-profile-trophy)
+[![My Github activity graph](https://activity-graph.herokuapp.com/graph?username=Albert-Sharma&bg_color=000000&color=FFFFFF&line=9645F4&point=F1E05A)](https://github.com/Albert-Sharma/github-readme-activity-graph)
+
 
 
 
