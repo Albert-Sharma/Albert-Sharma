@@ -44,8 +44,6 @@ Learning something new is my feed and I believe in "If it's not good then it's n
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Albert-Sharma&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub metrics](https://metrics.lecoq.io/Albert-Sharma)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Albert-Sharma)  
 
 [![My Github activity graph](https://activity-graph.herokuapp.com/graph?username=Albert-Sharma&bg_color=000000&color=FFFFFF&line=9645F4&point=F1E05A)](https://github.com/Albert-Sharma/github-readme-activity-graph)
