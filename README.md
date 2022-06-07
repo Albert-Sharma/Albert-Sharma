@@ -1,4 +1,3 @@
-<img align="right" height="220px" src="save-myvfx(shading done).jpg" alt="image" />
 
 <p align="left">
 
