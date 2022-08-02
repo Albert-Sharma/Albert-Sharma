@@ -4,7 +4,7 @@
 ### Hi there
 ## Myself Albert Sharma
 ## Sophomore at NIT-Hamirpur
-I'm from Himachal Pradesh & currently is a 2nd-year student at NIT-Hamirpur doing undergrads in Mathematics and Scientific Computing.<br>
+I'm from Himachal Pradesh & currently is a 3rd-year student at NIT-Hamirpur doing undergrads in Mathematics and Scientific Computing.<br>
 My basic interest includes content writing, Indian Defence, and data analysis.<br> 
 Learning something new is my feed and I believe in "If it's not good then it's not the end".
 
