@@ -3,7 +3,7 @@
 
 ### Hi there
 ## Myself Albert Sharma
-## Sophomore at NIT-Hamirpur
+## Pre-Final Year Student at NIT-Hamirpur
 I'm from Himachal Pradesh & currently is a 3rd-year student at NIT-Hamirpur doing undergrads in Mathematics and Scientific Computing.<br>
 My basic interest includes content writing, Indian Defence, and data analysis.<br> 
 Learning something new is my feed and I believe in "If it's not good then it's not the end".
@@ -15,15 +15,9 @@ Learning something new is my feed and I believe in "If it's not good then it's n
 - **Personal ID**: albertsharma.ug.nith@gmail.com
 - **College ID**: 20bma024@nith.ac.in
 
-## Skills:
-🎯Spreadsheets/MS-Excel/MS-Word 
-🎯C++/Python/ pandas/ numpy
-🎯HTML/CSS/
 
-- 🌱 I’m currently learning Data Analysis & Python(flask) 
-- 🤔 I’m looking for help with SQL, React 
+- 🌱 I’m currently exploring the field of  Data Analysis 
 - 📫 How to reach me: Though my email or my contact 
-- ⚡ Fun fact: I work according to the situation 
 
 <a href="https://www.linkedin.com/in/albert-sharma-2016/">
   <img alt="Albert on LinkedIN" width="22px" style="margin: 10px;" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
