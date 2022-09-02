@@ -37,7 +37,7 @@ Learning something new is my feed and I believe in "If it's not good then it's n
 <hr> 
 <br>
 
-[![My Github activity graph](https://activity-graph.herokuapp.com/graph?username=Albert-Sharma&bg_color=000000&color=00FF00&line=9645F4&point=F1E05A)](https://github.com/Albert-Sharma/github-readme-activity-graph)
+
 
 
 
