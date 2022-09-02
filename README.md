@@ -12,7 +12,7 @@ Learning something new is my feed and I believe in "If it's not good then it's n
   
 ### Work Realted Contacts
 
-- **Personal ID**: albertsharma2016@gmail.com
+- **Personal ID**: albertsharma.ug.nith@gmail.com
 - **College ID**: 20bma024@nith.ac.in
 
 ## Skills:
