@@ -15,9 +15,22 @@ Learning something new is my feed and I believe in "If it's not good then it's n
 - **Personal ID**: albertsharma.ug.nith@gmail.com
 - **College ID**: 20bma024@nith.ac.in
 
+# Languages & Tools 👨‍💻 🛠:
+</br>
 
-- 🌱 I’m currently exploring the field of  Data Analysis 
-- 📫 How to reach me: Though my email or my contact 
+<p align="center">
+
+<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
+</br>
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
+</br>
+</p>
+</br>
+</br>
+</br>
 
 <a href="https://www.linkedin.com/in/albert-sharma-2016/">
   <img alt="Albert on LinkedIN" width="22px" style="margin: 10px;" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
