@@ -1,5 +1,6 @@
 Hola, My name is Albert Sharma
-==============================Data Analyst------------Currently in my final year of engineering in Mathematics and Computing, at NIT-Hamripur, India.* 🌍  I'm based in INDIA* 🖥️  See my portfolio at [Me](http://https://albert-sharma-f98pu1ayg-albert-sharma.vercel.app/)* ✉️  You can contact me at [albertsharma.ug.nith@gmail.com](mailto:albertsharma.ug.nith@gmail.com)* 🚀  I'm currently working on [Spatial transcriptomics data, and graph descriptor functions.](http://https://github.com/theislab/filtration_curves)* 🧠  I'm learning The raw data processing and quality control on Count Matrix* 🤝  I'm open to collaborating on Bussiness Capstone projects and graph topology* ⚡  I love to travel, and have a covo on geo-politics.
+Data Analyst
+Currently in my final year of engineering in Mathematics and Computing, at NIT-Hamripur, India.* 🌍  I'm based in INDIA* 🖥️  See my portfolio at [Me](http://https://albert-sharma-f98pu1ayg-albert-sharma.vercel.app/)* ✉️  You can contact me at [albertsharma.ug.nith@gmail.com](mailto:albertsharma.ug.nith@gmail.com)* 🚀  I'm currently working on [Spatial transcriptomics data, and graph descriptor functions.](http://https://github.com/theislab/filtration_curves)* 🧠  I'm learning The raw data processing and quality control on Count Matrix* 🤝  I'm open to collaborating on Bussiness Capstone projects and graph topology* ⚡  I love to travel, and have a covo on geo-politics.
 
 ### Skills
 
