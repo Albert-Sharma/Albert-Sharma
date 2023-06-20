@@ -1,7 +1,7 @@
 
-Hola, My name is Albert Sharma
-Data Analyst
-Currently in my final year of engineering in Mathematics and Computing, at NIT-Hamripur, India.
+Hola, My name is Albert Sharma<br />
+Data Analyst <br />
+Currently in my final year of engineering in Mathematics and Computing, at NIT-Hamripur, India. <br />
 
 ### Skills
 
